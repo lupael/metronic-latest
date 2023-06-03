@@ -47,7 +47,7 @@
         "datatables.net-fixedcolumns-bs5": "^4.1.0",
         "datatables.net-fixedheader": "^3.2.3",
         "datatables.net-fixedheader-bs5": "^3.2.3",
-        "datatables.net-plugins": "^1.11.5",
+        "datatables.net-plugins": "^1.13.4",
         "datatables.net-responsive": "^2.3.0",
         "datatables.net-responsive-bs5": "^2.3.0",
         "datatables.net-rowgroup": "^1.2.0",
